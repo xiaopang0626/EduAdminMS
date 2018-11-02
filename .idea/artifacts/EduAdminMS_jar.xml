@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EduAdminMS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EduAdminMS_jar</output-path>
+    <root id="archive" name="EduAdminMS.jar">
+      <element id="module-output" name="EduAdminMS" />
+    </root>
+  </artifact>
+</component>
